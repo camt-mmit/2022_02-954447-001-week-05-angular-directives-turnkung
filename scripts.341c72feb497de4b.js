@@ -1,0 +1,1 @@
+function preLoad(){alert("Hello")}
